@@ -1,4 +1,5 @@
 # MyShortNotes
+# CRUD APPLICATION
 A simple note-making web application, built using HTML, CSS and JavaScript. It is very useful in keeping important and small notes in an organized manner.
 
 how to use?
